@@ -1,0 +1,40 @@
+
+.body{
+    background-color: rgb(243, 231, 231);
+}
+.container {
+    text-align: center;
+    margin: 20px;
+    margin-top: 40px;
+}
+
+.box {
+    display: flex;
+    /* background-color: #f0f0f0; */
+    justify-content: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+}
+
+.activity {
+    margin-top: 20px;
+}
+
+.expand {
+    margin-top: 20px;
+}
+
+.gen li {
+    margin-bottom: 10px;
+}
+
+button {
+    cursor: pointer;
+    padding: 5px 10px;
+    margin-left: 10px;
+    font-size: 15px;
+    background-color: transparent;
+    box-shadow: 2px 1px 4px black;
+}
